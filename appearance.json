@@ -1,9 +1,11 @@
 {
   "accentColor": "",
-  "cssTheme": "Vanilla AMOLED",
+  "cssTheme": "Lorenz Theme",
   "interfaceFontFamily": "Ubuntu Mono",
   "enabledCssSnippets": [
+    "propertie-classes",
     "sidebar",
-    "propertie-classes"
-  ]
+    "default"
+  ],
+  "theme": "obsidian"
 }

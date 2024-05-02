@@ -69,8 +69,8 @@ customization. Just swap out the color variable names in the prefix groups.
 
 /* All Folder Titles */
 .nav-folder-title {
-  font-weight: bold;
   border-radius: 5px;
+  text-shadow: none;
 }
 
 /* Narrower Padding on Desktop*/
@@ -96,7 +96,7 @@ these to suit your own folder structure and vault theme!
 
 /* ------------------------------- 00 Prefix -------------------------------- */
 .nav-folder-title[data-path^="00"] {
-  color: #f00;
+  color: var(--mint);
   --nav-item-color-hover: color-mix(
     in srgb,
     var(--mint) var(--fg-contrast-amount),
