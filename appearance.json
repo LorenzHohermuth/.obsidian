@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "cssTheme": "Vanilla AMOLED",
+  "interfaceFontFamily": "Ubuntu Mono",
+  "enabledCssSnippets": [
+    "sidebar",
+    "propertie-classes"
+  ]
+}
